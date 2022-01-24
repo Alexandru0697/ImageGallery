@@ -20,6 +20,7 @@ const Filter: FC<Props> = ({activeItem, setActiveItem}) => {
                         {items.map((elements: string, i: number) =>
                             <Button key={i} onClick={() => setActiveItem(elements)}
                                     className={activeItem === elements ? `${styles.active}` : `${styles.button}`}
+                                    elements={elements}
                             >
                                 {elements}
                             </Button>
