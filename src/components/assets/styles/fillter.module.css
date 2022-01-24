@@ -1,0 +1,50 @@
+* {
+    list-style: none;
+}
+
+.paragraph {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 60px;
+    font-weight: 700;
+    margin: 30px;
+}
+
+.items ul {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 15px;
+
+}
+
+.button {
+    margin: 15px;
+    width: 200px;
+    height: 60px;
+    font-size: 18px;
+    color: #1F657B;
+    background-color: #ffffff;
+    border: 3px solid #1F657B;
+    border-radius: 35px;
+    cursor: pointer;
+
+}
+
+.button:hover {
+    background-color: rgba(158, 211, 231, 0.85);
+    color: #ffffff;
+}
+
+.active {
+    background-color: #159DCC;
+    color: #ffffff;
+    margin: 15px;
+    width: 200px;
+    height: 60px;
+    font-size: 18px;
+    border: 3px solid #1F657B;
+    border-radius: 35px;
+    cursor: pointer;
+
+}

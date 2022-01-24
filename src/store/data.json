@@ -1,0 +1,76 @@
+{
+  "wolves": [
+    {
+      "images": [
+        "https://wolftracker9eee.blob.core.windows.net/wolfpictures-mock/big-wolf1.png",
+        "https://wolftracker9eee.blob.core.windows.net/wolfpictures-mock/wolf1.png"
+      ]
+    },
+    {
+      "images": [
+        "https://wolftracker9eee.blob.core.windows.net/wolfpictures-mock/big-wolf2.png",
+        "https://wolftracker9eee.blob.core.windows.net/wolfpictures-mock/wolf2.png"
+      ]
+    },
+    {
+      "images": [
+        "https://wolftracker9eee.blob.core.windows.net/wolfpictures-mock/big-wolf3.png",
+        "https://wolftracker9eee.blob.core.windows.net/wolfpictures-mock/wolf3.png"
+      ]
+    },
+    {
+      "images": [
+        "https://wolftracker9eee.blob.core.windows.net/wolfpictures-mock/big-wolf4.png",
+        "https://wolftracker9eee.blob.core.windows.net/wolfpictures-mock/wolf4.png"
+      ]
+    },
+    {
+      "images": [
+        "https://wolftracker9eee.blob.core.windows.net/wolfpictures-mock/big-wolf5.png",
+        "https://wolftracker9eee.blob.core.windows.net/wolfpictures-mock/wolf5.png"
+      ]
+    },
+    {
+      "images": [
+        "https://wolftracker9eee.blob.core.windows.net/wolfpictures-mock/big-wolf6.png",
+        "https://wolftracker9eee.blob.core.windows.net/wolfpictures-mock/wolf6.png"
+      ]
+    },
+    {
+      "images": [
+        "https://wolftracker9eee.blob.core.windows.net/wolfpictures-mock/big-wolf7.png",
+        "https://wolftracker9eee.blob.core.windows.net/wolfpictures-mock/wolf7.png"
+      ]
+    },
+    {
+      "images": [
+        "https://wolftracker9eee.blob.core.windows.net/wolfpictures-mock/big-wolf8.png",
+        "https://wolftracker9eee.blob.core.windows.net/wolfpictures-mock/wolf8.png"
+      ]
+    },
+    {
+      "images": [
+        "https://wolftracker9eee.blob.core.windows.net/wolfpictures-mock/big-wolf9.png",
+        "https://wolftracker9eee.blob.core.windows.net/wolfpictures-mock/wolf9.png"
+      ]
+    },
+    {
+      "images": [
+        "https://images.unsplash.com/photo-1590420485404-f86d22b8abf8?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1887&q=80",
+        "https://images.unsplash.com/photo-1533973437338-97c56526f17c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1088&q=80"
+      ]
+    },
+    {
+      "images": [
+        "https://wolftracker9eee.blob.core.windows.net/wolfpictures-mock/big-wolf9.png",
+        "https://images.unsplash.com/photo-1604608678051-64d46d8d0ffe?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+      ]
+    },
+    {
+      "images": [
+        "https://wolftracker9eee.blob.core.windows.net/wolfpictures-mock/big-wolf9.png",
+        "https://images.unsplash.com/photo-1604608679452-90ccf7c0ea51?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+      ]
+    }
+  ]
+}

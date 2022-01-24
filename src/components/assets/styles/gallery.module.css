@@ -1,0 +1,52 @@
+.container{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.images{
+    width: 300px;
+    height: 220px;
+    margin: 15px;
+    border-radius: 3px;
+    cursor: pointer;
+
+}
+
+.image {
+    width: 100%;
+    height: 100vh;
+    position: fixed;
+    top: 0;
+    left: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(0, 0, 0, 0.5);
+    transition: opacity .3s ease, visibility .3s ease, transform .5s ease-in-out;
+    visibility: hidden;
+    opacity: 0;
+    transform: scale(0);
+    overflow: hidden;
+    z-index: 99;
+}
+
+.open{
+    background-color: rgba(0, 0, 0, 0.7);
+    transition: opacity .3s ease, visibility .3s ease, transform .5s ease-in-out;
+    visibility: visible;
+    opacity: 1;
+    transform: scale(1);
+}
+
+span{
+    position: fixed;
+    width: 90px;
+    height: 90px;
+    top: 10px;
+    right: 10px;
+    padding: 5px;
+    color: white;
+    cursor: pointer;
+}
