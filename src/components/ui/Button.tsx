@@ -1,7 +1,7 @@
-import {FC} from 'react';
+import React, {FC} from 'react';
 
 interface Props {
-    onClick?: any;
+    onClick?: (e: React.MouseEvent<HTMLElement>) => void;
     content?: string;
     className: string;
     key?: number;
